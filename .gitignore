@@ -10,3 +10,7 @@ __pycache__/
 
 # Jupyter notebook checkpoints
 *.ipynb_checkpoints
+
+# Ignore processed/derived files
+data/processed/*.csv
+data/reports/*.json
